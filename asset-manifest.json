@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Creadit-card/static/css/main.db2e72a9.chunk.css",
+    "main.js": "/Creadit-card/static/js/main.9044106d.chunk.js",
+    "main.js.map": "/Creadit-card/static/js/main.9044106d.chunk.js.map",
+    "runtime~main.js": "/Creadit-card/static/js/runtime~main.f45eda44.js",
+    "runtime~main.js.map": "/Creadit-card/static/js/runtime~main.f45eda44.js.map",
+    "static/js/2.179f4c70.chunk.js": "/Creadit-card/static/js/2.179f4c70.chunk.js",
+    "static/js/2.179f4c70.chunk.js.map": "/Creadit-card/static/js/2.179f4c70.chunk.js.map",
+    "index.html": "/Creadit-card/index.html",
+    "precache-manifest.5c89a8e282bf183debe35dd30e9babf9.js": "/Creadit-card/precache-manifest.5c89a8e282bf183debe35dd30e9babf9.js",
+    "service-worker.js": "/Creadit-card/service-worker.js",
+    "static/css/main.db2e72a9.chunk.css.map": "/Creadit-card/static/css/main.db2e72a9.chunk.css.map",
+    "static/media/creditcard.css": "/Creadit-card/static/media/background.20c0f406.jpg",
+    "static/media/pus.png": "/Creadit-card/static/media/pus.a8c8030b.png",
+    "static/media/visa.png": "/Creadit-card/static/media/visa.007dcb60.png"
+  }
+}
